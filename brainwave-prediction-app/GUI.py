@@ -126,7 +126,7 @@ layout1 = [
 
 # Define the layout for the Transfer Data Page
 layout4 = [[sg.Button(
-    image_filename="/Users/williamdoyle/Documents/GitHub/Avatar/brainwave-prediction-app/images")]]
+    image_filename="/Users/ashesh808/Documents/BSCinCS/Fall23/CSCI312/Lab2/Avatar/brainwave-prediction-app/images/upload.png")]]
 
 # Create the windows
 window1 = sg.Window('Start Page', layout1, size=(1200, 800), finalize=True)
